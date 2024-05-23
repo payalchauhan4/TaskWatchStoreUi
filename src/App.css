@@ -1,0 +1,25 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    font-family: 'Playfair Display';
+}
+
+.container {
+    /* max-width: 1242px; */
+    width: 100%;
+    padding: 0px 15px;
+    margin: auto;
+}
